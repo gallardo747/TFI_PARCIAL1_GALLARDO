@@ -1,0 +1,1 @@
+2023-10-07 23:00:38.334 -03:00 [ERR] ERROR: No hay tinta para imprimir - Documento: {"Id":0,"Nombre":null,"Cuerpo":"{\"nombre\":\"DocumentoC\",\"cuerpo\":\"TextoC\"}","Fecha_Impresion":null,"$type":"DocumentoProcesado"}

@@ -1,0 +1,2 @@
+2023-10-08 00:02:01.782 -03:00 [ERR] ERROR: No hay tinta para imprimir - Documento: {"Id":0,"Nombre":null,"Cuerpo":"{\"nombre\":\"DocumentoI\",\"cuerpo\":\"TextoI\"}","Fecha_Impresion":null,"$type":"DocumentoProcesado"}
+2023-10-08 00:02:01.782 -03:00 [ERR] ERROR: No hay tinta para imprimir - Documento: {"Id":0,"Nombre":null,"Cuerpo":"{\"nombre\":\"DocumentoE\",\"cuerpo\":\"TextoE\"}","Fecha_Impresion":null,"$type":"DocumentoProcesado"}

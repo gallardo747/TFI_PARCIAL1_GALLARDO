@@ -1,0 +1,92 @@
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.deps.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.AssemblyInfo.cs
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\obj\Debug\net6.0\refint\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\obj\Debug\net6.0\ref\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.runtimeconfig.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.genruntimeconfig.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_44_SEMINARIO\2023\TECNOLOGÍA\Proyecto\FUENTE\SOLUCION_VETLY\SOLUCION_VETLY\SOLUCION_VETLY\VETLY_DAL\bin\Debug\net6.0\appsettings.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\bin\Debug\net6.0\appsettings.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.deps.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.runtimeconfig.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.AssemblyInfo.cs
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.CopyComplete
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\refint\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.genruntimeconfig.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\VETLY_DAL\obj\Debug\net6.0\ref\VETLY_DAL.dll
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\bin\Debug\net6.0\appsettings.json
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.deps.json
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.runtimeconfig.json
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.dll
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.pdb
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\bin\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.AssemblyInfo.cs
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.CopyComplete
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.dll
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\refint\VETLY_DAL.dll
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.pdb
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.genruntimeconfig.cache
+C:\Users\Ezequiel\Desktop\vetly_Back\VETLY_DAL\obj\Debug\net6.0\ref\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.AssemblyInfo.cs
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.deps.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.runtimeconfig.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\bin\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\bin\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.CopyComplete
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\refint\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.genruntimeconfig.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\obj\Debug\net6.0\ref\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\VETLY_DAL\bin\Debug\net6.0\Data\appsettings.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.AssemblyInfo.cs
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\refint\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\bin\Debug\net6.0\Data\appsettings.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.deps.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.runtimeconfig.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\bin\Debug\net6.0\VETLY_DAL.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\bin\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\bin\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.csproj.CopyComplete
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\VETLY_DAL.genruntimeconfig.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\4-API_AUTOGESTION_PROCESADOS\VETLY_DAL\obj\Debug\net6.0\ref\VETLY_DAL.dll

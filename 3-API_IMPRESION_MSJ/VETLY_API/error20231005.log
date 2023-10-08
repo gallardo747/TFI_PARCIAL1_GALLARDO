@@ -1,0 +1,4 @@
+2023-10-05 23:01:16.849 -03:00 [ERR] ERROR: No hay tinta para imprimir - Mensaje: VETLY_BE.Entities.DocumentoProcesado
+2023-10-05 23:17:46.965 -03:00 [ERR] ERROR: No hay tinta para imprimir - Mensaje: VETLY_BE.Entities.DocumentoProcesado
+2023-10-05 23:31:06.367 -03:00 [ERR] ERROR: No hay tinta para imprimir - Mensaje:
+2023-10-05 23:35:38.436 -03:00 [ERR] ERROR: No hay tinta para imprimir - Documento: {"Id":0,"Nombre":null,"Cuerpo":"{\"nombre\":\"DocumentoO\",\"cuerpo\":\"TextoO\"}","Fecha_Impresion":null,"$type":"DocumentoProcesado"}

@@ -1,0 +1,34 @@
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.exe
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.deps.json
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.runtimeconfig.json
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.dll
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.pdb
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.csproj.AssemblyReference.cache
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.AssemblyInfo.cs
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.csproj.CopyComplete
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.dll
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\refint\ServiceBus.dll
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.pdb
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.genruntimeconfig.cache
+C:\Users\gonza\source\repos\ServiceBus\ServiceBus\obj\Debug\net6.0\ref\ServiceBus.dll
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.exe
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.deps.json
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.runtimeconfig.json
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.dll
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.pdb
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.csproj.AssemblyReference.cache
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.AssemblyInfo.cs
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.csproj.CopyComplete
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.dll
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\refint\ServiceBus.dll
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.pdb
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.genruntimeconfig.cache
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ref\ServiceBus.dll

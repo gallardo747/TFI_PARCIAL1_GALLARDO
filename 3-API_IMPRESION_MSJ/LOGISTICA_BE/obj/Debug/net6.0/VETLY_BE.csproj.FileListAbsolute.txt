@@ -1,0 +1,60 @@
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.deps.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.AssemblyInfo.cs
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\refint\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Proyecto\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\ref\VETLY_BE.dll
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.deps.json
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.AssemblyInfo.cs
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\refint\VETLY_BE.dll
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Desktop\vetly_Back\LOGISTICA_BE\obj\Debug\net6.0\ref\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.deps.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.AssemblyInfo.cs
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\obj\Debug\net6.0\refint\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\1-API_ENVIO_MSJ\LOGISTICA_BE\obj\Debug\net6.0\ref\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.deps.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.AssemblyInfo.cs
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\refint\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\2-API_RECEPCION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\ref\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.deps.json
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\bin\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.AssemblyInfo.cs
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\refint\VETLY_BE.dll
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\VETLY_BE.pdb
+C:\Users\Ezequiel\Mi unidad\UAI-PENDIENTE\5to_AÑO_TRABAJO_FINAL_INGENIERIA\Tecnologia\Parcial 1\3-API_IMPRESION_MSJ\LOGISTICA_BE\obj\Debug\net6.0\ref\VETLY_BE.dll

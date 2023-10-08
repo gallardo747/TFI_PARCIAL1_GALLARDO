@@ -1,0 +1,5 @@
+2023-10-08 00:16:28.111 -03:00 [ERR] ERROR: No hay tinta para imprimir - Documento: {"Id":0,"Nombre":null,"Cuerpo":"{\"nombre\":\"DocumentoE\",\"cuerpo\":\"TextoE\"}","Fecha_Impresion":null,"$type":"DocumentoProcesado"}
+2023-10-08 00:29:45.533 -03:00 [ERR] ERROR: No hay tinta para imprimir - Documento: {"Id":0,"Nombre":null,"Cuerpo":"{\"nombre\":\"DocumentoG\",\"cuerpo\":\"TextoG\"}","Fecha_Impresion":null,"$type":"DocumentoProcesado"}
+2023-10-08 00:29:45.533 -03:00 [ERR] ERROR: No hay tinta para imprimir - Documento: {"Id":0,"Nombre":null,"Cuerpo":"{\"nombre\":\"DocumentoA\",\"cuerpo\":\"TextoA\"}","Fecha_Impresion":null,"$type":"DocumentoProcesado"}
+2023-10-08 00:29:45.533 -03:00 [ERR] ERROR: No hay tinta para imprimir - Documento: {"Id":0,"Nombre":null,"Cuerpo":"{\"nombre\":\"DocumentoF\",\"cuerpo\":\"TextoF\"}","Fecha_Impresion":null,"$type":"DocumentoProcesado"}
+2023-10-08 00:29:45.532 -03:00 [ERR] ERROR: No hay tinta para imprimir - Documento: {"Id":0,"Nombre":null,"Cuerpo":"{\"nombre\":\"DocumentoB\",\"cuerpo\":\"TextoB\"}","Fecha_Impresion":null,"$type":"DocumentoProcesado"}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LOGISTICA_API.props" />
+</Project>

@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\VETLY_DAL\\LOGISTICA_DAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\LOGISTICA_BE\\VELTY_BE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\LOGISTICA_BE\\VELTY_BE.csproj",
+        "projectName": "VELTY_BE",
+        "projectPath": "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\LOGISTICA_BE\\VELTY_BE.csproj",
+        "packagesPath": "C:\\Users\\Ezequiel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\LOGISTICA_BE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ezequiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\VETLY_DAL\\LOGISTICA_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\VETLY_DAL\\LOGISTICA_DAL.csproj",
+        "projectName": "LOGISTICA_DAL",
+        "projectPath": "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\VETLY_DAL\\LOGISTICA_DAL.csproj",
+        "packagesPath": "C:\\Users\\Ezequiel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\VETLY_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ezequiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\LOGISTICA_BE\\VELTY_BE.csproj": {
+                "projectPath": "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Proyecto\\vetly_Back\\LOGISTICA_BE\\VELTY_BE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

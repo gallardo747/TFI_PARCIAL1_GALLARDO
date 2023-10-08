@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Parcial 1\\2-Consumidor_DOCS_desde_RabbitMQ\\ServiceBus\\Consumidor_Docs_Rabbit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Parcial 1\\2-Consumidor_DOCS_desde_RabbitMQ\\ServiceBus\\Consumidor_Docs_Rabbit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Parcial 1\\2-Consumidor_DOCS_desde_RabbitMQ\\ServiceBus\\Consumidor_Docs_Rabbit.csproj",
+        "projectName": "Consumidor_Docs_Rabbit",
+        "projectPath": "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Parcial 1\\2-Consumidor_DOCS_desde_RabbitMQ\\ServiceBus\\Consumidor_Docs_Rabbit.csproj",
+        "packagesPath": "C:\\Users\\Ezequiel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ezequiel\\Mi unidad\\UAI-PENDIENTE\\5to_AÑO_TRABAJO_FINAL_INGENIERIA\\Tecnologia\\Parcial 1\\2-Consumidor_DOCS_desde_RabbitMQ\\ServiceBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ezequiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

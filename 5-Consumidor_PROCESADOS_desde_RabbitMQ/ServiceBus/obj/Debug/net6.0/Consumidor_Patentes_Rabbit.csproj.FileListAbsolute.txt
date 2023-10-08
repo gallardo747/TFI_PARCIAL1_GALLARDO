@@ -1,0 +1,97 @@
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.exe
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.deps.json
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.runtimeconfig.json
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.dll
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.pdb
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.AssemblyReference.cache
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.AssemblyInfoInputs.cache
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.AssemblyInfo.cs
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.CopyComplete
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.dll
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\refint\Consumidor_Patentes_Rabbit.dll
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.pdb
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.genruntimeconfig.cache
+C:\Users\ezequiel.gallardo\Downloads\Demo RabbitMQ Docker\ServiceBus\ServiceBus\obj\Debug\net6.0\ref\Consumidor_Patentes_Rabbit.dll
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.exe
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.deps.json
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.runtimeconfig.json
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.dll
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.pdb
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.AssemblyReference.cache
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.AssemblyInfoInputs.cache
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.AssemblyInfo.cs
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.CopyComplete
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.dll
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\refint\Consumidor_Patentes_Rabbit.dll
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.pdb
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.genruntimeconfig.cache
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\ref\Consumidor_Patentes_Rabbit.dll
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ezequiel.gallardo\Desktop\MODELOS\TP\Consumidor_Multas_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.exe
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.deps.json
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.runtimeconfig.json
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.pdb
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.AssemblyReference.cache
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.AssemblyInfoInputs.cache
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.AssemblyInfo.cs
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.CoreCompileInputs.cache
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.CopyComplete
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\refint\Consumidor_Patentes_Rabbit.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.pdb
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.genruntimeconfig.cache
+C:\Users\nico_\Desktop\Lunes\Nico Api\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\ref\Consumidor_Patentes_Rabbit.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.exe
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.deps.json
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.runtimeconfig.json
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.pdb
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.AssemblyReference.cache
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.AssemblyInfoInputs.cache
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.AssemblyInfo.cs
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.CoreCompileInputs.cache
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.CopyComplete
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\refint\Consumidor_Patentes_Rabbit.dll
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.pdb
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.genruntimeconfig.cache
+C:\Users\nico_\Desktop\Lunes\Nico Api factura\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\ref\Consumidor_Patentes_Rabbit.dll
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.exe
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.deps.json
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.runtimeconfig.json
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.dll
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Consumidor_Patentes_Rabbit.pdb
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\bin\Debug\net6.0\RabbitMQ.Client.dll
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.csproj.CopyComplete
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.dll
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\refint\Consumidor_Patentes_Rabbit.dll
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.pdb
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\Consumidor_Patentes_Rabbit.genruntimeconfig.cache
+G:\.shortcut-targets-by-id\1lVcq2E7WOQ_Jb_YhEKTrpdZXGpVGBUUH\TP\facturacion2.0\Consumidor_Pago_desde_RabbitMQ\ServiceBus\obj\Debug\net6.0\ref\Consumidor_Patentes_Rabbit.dll
